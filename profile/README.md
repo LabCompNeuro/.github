@@ -6,4 +6,4 @@ Advances in experimental methods are generating data at an unprecedented scale a
 
 Despite the tremendous advances in machine learning, most machine learning methods are not geared at generating interpretable insights. Our lab answers these needs by developing and applying machine learning methods for mechanistic insight in neuroscience. In close collaboration with experimental partners, we aim to design more accurate models, quantitatively test mechanistic hypotheses and derive experimentally-testable predictions, with the ultimate goal of refining our understanding of neural systems in health and disease.
 
-We are based at [NERF](https://nerf.be/en#/) in Leuven, Belgium. You can find out more about us on our [lab website](https://goncalveslab.sites.vib.be/en).
+We are based at [NERF](https://nerf.be/en#/) in Leuven, Belgium. You can find out more about us on our [lab website](https://goncalveslab.sites.vib.be/en). Image credit: Ryan Garcia, see [this blog post about our work](https://www.simonsfoundation.org/2020/06/24/illuminating-the-dark-parameter-space-of-neuroscience-modeling/).
